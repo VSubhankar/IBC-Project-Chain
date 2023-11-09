@@ -12,5 +12,5 @@ To Run :-
 1) Clone this repository by using command - "git clone https://github.com/VSubhankar/IBC-Project-Chain.git"
 2) Update cargo by using command - "cargo-update"
 3) Compile the code to build the local chain by using command - "cargo build --release"
-4) Run the code to deploy the local chain by using command -"./target/release/node-template --dev"
+4) Deploy/Start the local chain by using command -"./target/release/node-template --dev"
 5) Interact with the Blockchain by going to- "https://polkadot.js.org/apps/?rpc=ws%3A%2F%2F127.0.0.1%3A9944"
