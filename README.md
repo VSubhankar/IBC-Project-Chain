@@ -9,7 +9,7 @@ Data Pushing:- Store A Key-Value Pair onto Blockchain.</br>
 Data Retrieval:- Retrieve value based on given key.
 
 To Run :-
-1) Clone this repository by using command - "git clone https://github.com/VSubhankar/IBC-Project-Chain.git"
+1) Clone this repository by using command - "git clone https://github.com/VSubhankar/IBC-Project-BlockChain.git"
 2) Update cargo by using command - "cargo-update"
 3) Compile the code to build the local chain by using command - "cargo build --release"
 4) Deploy/Start the local chain by using command -"./target/release/node-template --dev"
